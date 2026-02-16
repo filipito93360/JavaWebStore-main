@@ -11,6 +11,10 @@ import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+/**
+ *
+ */
+
 public class MainMenu {
 
     private ArrayList<Product> products;
@@ -29,11 +33,10 @@ public class MainMenu {
         catch(FileNotFoundException e){
             System.out.println("File not found");
         }
-        System.out.println(products);
     }
 
     private void seedProducts() throws FileNotFoundException {
-        String csvFile = "C:\\Users\\filip\\Documents\\cours_EFREI\\mobilite\\cours\\java\\Project\\JavaWebStore-main\\ui\\products.csv"; // Le chemin vers ton fichier
+        String csvFile = "ui/products.csv"; // Le chemin vers ton fichier
         String line = "";
         String csvSplitBy = ",";
         File file = new File(csvFile);
