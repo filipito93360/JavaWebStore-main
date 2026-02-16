@@ -1,0 +1,100 @@
+E1,Electronics,Laptop Gaming,1200,PC portable haute performance,ASUS,24,,
+E2,Electronics,Smartphone Pro,950,Téléphone dernière génération,Apple,12,,
+E3,Electronics,Monitor 4K,350,Écran 27 pouces UHD,Samsung,24,,
+E4,Electronics,Wireless Headphones,200,Casque à réduction de bruit,Sony,12,,
+E5,Electronics,Smartwatch,250,Montre connectée sport,Garmin,24,,
+E6,Electronics,Tablet Air,600,Tablette légère pour créatifs,Apple,12,,
+E7,Electronics,Bluetooth Speaker,120,Enceinte portable étanche,JBL,24,,
+E8,Electronics,Gaming Mouse,80,Souris haute précision,Logitech,24,,
+E9,Electronics,Mechanical Keyboard,150,Clavier rétroéclairé RGB,Corsair,24,,
+E10,Electronics,External SSD,100,Disque dur 1To rapide,Samsung,36,,
+E11,Electronics,Webcam HD,70,Caméra pour streaming 1080p,Logitech,12,,
+E12,Electronics,Graphics Card,800,Carte graphique RTX,Nvidia,36,,
+E13,Electronics,Processor,400,Processeur 8 coeurs,Intel,36,,
+E14,Electronics,Motherboard,200,Carte mère compatible WiFi,MSI,24,,
+E15,Electronics,Power Supply,110,Alimentation 750W Gold,Corsair,60,,
+E16,Electronics,VR Headset,450,Casque réalité virtuelle,Meta,12,,
+E17,Electronics,Drone,900,Drone avec caméra 4K,DJI,12,,
+E18,Electronics,Action Cam,350,Caméra sportive compacte,GoPro,12,,
+E19,Electronics,Printer Laser,200,Imprimante noir et blanc,HP,12,,
+E20,Electronics,Router WiFi 6,180,Routeur très haut débit,TP-Link,24,,
+E21,Electronics,Smart Home Hub,90,Assistant vocal maison,Google,12,,
+E22,Electronics,E-Reader,130,Liseuse écran papier,Kindle,12,,
+E23,Electronics,Soundbar,220,Barre de son cinéma,Sonos,24,,
+E24,Electronics,Projector,500,Projecteur portable HD,Anker,18,,
+E25,Electronics,Charger Fast,40,Chargeur rapide USB-C,Anker,18,,
+C1,Clothing,Leather Jacket,150,Veste style motard,Generic,,M,Leather
+C2,Clothing,Denim Jeans,60,Jean coupe droite bleu,Generic,,32,Denim
+C3,Clothing,Cotton T-Shirt,25,T-shirt basique blanc,Generic,,L,Cotton
+C4,Clothing,Wool Sweater,80,Pull chaud pour l'hiver,Generic,,M,Wool
+C5,Clothing,Running Shorts,35,Short léger respirant,Generic,,S,Polyester
+C6,Clothing,Silk Scarf,45,Écharpe douce et légère,Generic,,OneSize,Silk
+C7,Clothing,Winter Coat,200,Manteau imperméable,Generic,,XL,Synthetic
+C8,Clothing,Socks Pack,15,Lot de 3 paires,Generic,,42-44,Cotton
+C9,Clothing,Sneakers,90,Chaussures de ville,Generic,,43,Leather/Syn
+C10,Clothing,Formal Shirt,50,Chemise pour costume,Generic,,L,Cotton
+C11,Clothing,Blazer,120,Veste de costume élégante,Generic,,52,Wool blend
+C12,Clothing,Yoga Pants,40,Pantalon élastique sport,Generic,,M,Spandex
+C13,Clothing,Beanie,20,Bonnet en laine,Generic,,OneSize,Acrylic
+C14,Clothing,Gloves,30,Gants tactiles,Generic,,M,Leather
+C15,Clothing,Swim Shorts,25,Maillot de bain séchage rapide,Generic,,L,Nylon
+C16,Clothing,Hoodie,55,Sweat à capuche confort,Generic,,XL,Cotton/Poly
+C17,Clothing,Polo Shirt,40,Polo manches courtes,Generic,,L,Cotton
+C18,Clothing,Raincoat,70,Imperméable jaune,Generic,,M,PVC
+C19,Clothing,Belt,35,Ceinture classique,Generic,,90cm,Leather
+C20,Clothing,Pajamas,45,Ensemble nuit confortable,Generic,,L,Flannel
+C21,Clothing,Skirt,35,Jupe d'été fleurie,Generic,,S,Viscose
+C22,Clothing,Dress,85,Robe de soirée,Generic,,M,Silk blend
+C23,Clothing,Hiking Boots,110,Chaussures de marche,Generic,,44,GoreTex
+C24,Clothing,Cap,25,Casquette baseball,Generic,,Adj,Cotton
+C25,Clothing,Thermal Underwear,30,Sous-vêtement chaud,Generic,,M,Merino Wool
+G1,Banana,2.00,Fresh banana bunch,5,Fruit
+G2,Apple Gala,3.50,Crisp red apples (1kg),14,Fruit
+G3,Orange,4.00,Juicy oranges (1kg),10,Fruit
+G4,Grapes,5.00,Seedless green grapes,7,Fruit
+G5,Strawberries,6.00,Sweet red strawberries,4,Fruit
+G6,Blueberries,4.50,Box of fresh blueberries,6,Fruit
+G7,Watermelon,7.00,Whole large watermelon,10,Fruit
+G8,Pineapple,5.50,Sweet tropical pineapple,5,Fruit
+G9,Mango,3.00,Ripe honey mango,4,Fruit
+G10,Lemon,2.50,Bag of lemons (500g),20,Fruit
+G11,Avocado,2.00,Ready to eat avocado,3,Fruit
+G12,Pear,3.80,Juicy pears (1kg),8,Fruit
+G13,Peach,4.20,Sweet peaches (1kg),5,Fruit
+G14,Kiwi,3.50,Green kiwis (pack of 6),10,Fruit
+G15,Cherries,8.00,Fresh seasonal cherries,4,Fruit
+G16,Plum,4.00,Red plums (1kg),6,Fruit
+G17,Cantaloupe,4.50,Sweet melon,7,Fruit
+G18,Raspberries,5.50,Delicate raspberries,3,Fruit
+G19,Blackberries,5.50,Fresh blackberries,3,Fruit
+G20,Pomegranate,3.00,Large pomegranate,14,Fruit
+G21,Carrot,2.00,Organic carrots (1kg),21,Vegetable
+G22,Potato,4.00,Russet potatoes (5kg),30,Vegetable
+G23,Tomato,3.50,Vine ripened tomatoes,6,Vegetable
+G24,Cucumber,1.50,English cucumber,7,Vegetable
+G25,Lettuce,2.00,Iceberg lettuce head,5,Vegetable
+G26,Spinach,3.00,Baby spinach bag,4,Vegetable
+G27,Broccoli,2.50,Fresh broccoli crown,6,Vegetable
+G28,Cauliflower,3.00,White cauliflower head,7,Vegetable
+G29,Bell Pepper,4.00,Tri-color pepper pack,8,Vegetable
+G30,Onion,3.00,Yellow onions (2kg),45,Vegetable
+G31,Garlic,1.00,Garlic bulbs (pack of 3),60,Vegetable
+G32,Zucchini,2.50,Green zucchini (1kg),7,Vegetable
+G33,Mushroom,3.00,White mushrooms,5,Vegetable
+G34,Sweet Potato,3.50,Sweet potatoes (1kg),25,Vegetable
+G35,Celery,2.00,Celery stalks,10,Vegetable
+G36,Asparagus,5.00,Green asparagus bunch,4,Vegetable
+G37,Eggplant,2.80,Purple eggplant,6,Vegetable
+G38,Green Beans,3.50,Fresh green beans,6,Vegetable
+G39,Cabbage,2.00,Green cabbage head,14,Vegetable
+G40,Pumpkin,6.00,Cooking pumpkin,60,Vegetable
+G41,Radish,1.80,Red radish bunch,8,Vegetable
+G42,Beetroot,2.50,Fresh beets,14,Vegetable
+G43,Corn,3.00,Sweet corn cobs (pack of 4),5,Vegetable
+G44,Kale,3.00,Curly kale bunch,6,Vegetable
+G45,Ginger,4.00,Fresh ginger root,30,Vegetable
+G46,Chili Pepper,2.00,Hot red chilis,10,Vegetable
+G47,Leek,3.00,Fresh leeks,10,Vegetable
+G48,Brussels Sprouts,4.00,Bag of sprouts,8,Vegetable
+G49,Artichoke,3.50,Globe artichoke,5,Vegetable
+G50,Squash,4.00,Butternut squash,45,Vegetable
