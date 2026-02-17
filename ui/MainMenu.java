@@ -12,7 +12,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 /**
- *
+ * Main menu used in main to permit the user to do all the actions linked with the store
  */
 
 public class MainMenu {
@@ -21,6 +21,10 @@ public class MainMenu {
     private ShoppingCart cart;
     private OrderHistory history;
     private Scanner scanner;
+
+    /**
+     * Default Constructor initializing the attributes of the MainMenu class
+     */
 
     public MainMenu() {
         products = new ArrayList<>();
@@ -34,6 +38,11 @@ public class MainMenu {
             System.out.println("File not found");
         }
     }
+
+    /**
+     * Method that creates the products list with a .csv file
+     * @throws FileNotFoundException occurs when the path precised leads to no file for the computer (the root can be the root of the project on IntelliJ)
+     */
 
     private void seedProducts() throws FileNotFoundException {
         String csvFile = "ui/products.csv"; // Le chemin vers ton fichier
@@ -59,6 +68,10 @@ public class MainMenu {
             }
         }
     }
+
+    /**
+     * Method to display all the menu's options
+     */
 
     public void start() {
         while (true) {
@@ -90,6 +103,10 @@ public class MainMenu {
         }
     }
 
+    /**
+     * Method to browse the store's products
+     */
+
     private void browseProducts() {
 
         System.out.println("\n--- Products ---");
@@ -107,6 +124,10 @@ public class MainMenu {
         }
     }
 
+    /**
+     * Method to search products in the store
+     */
+
     private void searchProduct() {
 
         System.out.println("Enter product name: ");
@@ -117,6 +138,10 @@ public class MainMenu {
         if (found != 0) System.out.println("Found " + found + " Products.");
         else System.out.println("Product not found.");
     }
+
+    /**
+     * Method to do the checkout option that includes choosing the payment method, etc.
+     */
 
     private void checkout() {
         if (cart.isEmpty()) {

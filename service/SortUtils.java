@@ -3,7 +3,16 @@ package JavaWebStore.service;
 import JavaWebStore.model.Product;
 import java.util.ArrayList;
 
+/**
+ * Class used to sort the items by price
+ */
+
 public class SortUtils {
+
+    /**
+     * Method sorting by bubble sort the products by price
+     * @param products the list of products of the store
+     */
     
     public static void bubbleSortByPrice(ArrayList<Product> products) {
         int n = products.size();
@@ -22,6 +31,11 @@ public class SortUtils {
         }
     }
 
+    /**
+     * Method sorting by insertion sort the products of the store by the price
+     * @param products the list of products available in the store
+     */
+
     public static void insertionSortByName(ArrayList<Product> products) {
 
         for (int i = 1; i < products.size(); i++) {
@@ -37,6 +51,11 @@ public class SortUtils {
             products.set(j+1, key);
         }
     }
+
+    /**
+     * Method sorting by selection sort the products of the store by price
+     * @param products the list of products available in the store
+     */
 
     public static void selectionSortByPrice(ArrayList<Product> products) {
 
