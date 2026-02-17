@@ -57,7 +57,6 @@ public abstract class Product implements Discountable {
 
     /**
      * Setter of the price
-     * @return
      */
 
     public void setPrice(double price) {
